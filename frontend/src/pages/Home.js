@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://agroplatform.onrender.com';
 const CROP_ICONS  = { wheat: '🌾', barley: '🌿', sunflower: '🌻' };
 const CROP_COLORS = { wheat: 'var(--accent)', barley: 'var(--blue)', sunflower: 'var(--gold)' };
 const MODEL_LABELS = {

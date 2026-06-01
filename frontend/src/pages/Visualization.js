@@ -5,7 +5,7 @@ import {
 } from 'recharts';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://agroplatform.onrender.com';
 const MONTHS = ['apr','may','jun','jul','aug','sep'];
 const MONTH_LABELS = ['Apr','May','Jun','Jul','Aug','Sep'];
 const CROP_COLOR  = { wheat: '#4ade80', barley: '#60a5fa', sunflower: '#fbbf24' };

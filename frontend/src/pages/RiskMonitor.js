@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import axios from 'axios';
 
-const API = 'http://localhost:8000';
+const API = 'https://agroplatform.onrender.com';
 const CROPS = ['wheat', 'barley', 'sunflower'];
 const CROP_ICONS  = { wheat: '🌾', barley: '🌿', sunflower: '🌻' };
 const CROP_COLORS = { wheat: '#4ade80', barley: '#60a5fa', sunflower: '#fbbf24' };
