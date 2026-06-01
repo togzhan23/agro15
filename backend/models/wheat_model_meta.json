@@ -1,0 +1,15 @@
+{
+  "slope": 0.16631972972972972,
+  "intercept": -326.37756021021016,
+  "best_k": 12,
+  "best_params": {
+    "C": 10,
+    "epsilon": 0.05,
+    "kernel": "rbf",
+    "gamma": "scale"
+  },
+  "r2": 0.8098,
+  "culture": "wheat",
+  "unit": "ц/га",
+  "prediction_2025": 10.92
+}

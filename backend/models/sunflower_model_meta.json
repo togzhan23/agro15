@@ -1,0 +1,13 @@
+{
+  "coeffs": [
+    0.011387375832267482,
+    -0.21190384267505044,
+    3.1019624229492675
+  ],
+  "trend_type": "quadratic",
+  "r2": 0.9061,
+  "culture": "sunflower",
+  "unit": "ц/га",
+  "model_type": "stacking_two_svr",
+  "prediction_2025": 10.91
+}
