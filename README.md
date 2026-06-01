@@ -14,4 +14,4 @@ npm install && npm start
 ```
 
 ## Data
-`backend/data/Pavlodar_full_with_era5.csv` — 36 years, Pavlodar Oblast
+`backend/data/Pavlodar_full_with_era5.csv` — 35 years, Pavlodar Oblast
